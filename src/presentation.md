@@ -6,9 +6,7 @@
 !SLIDE
 
 * Thibaut Assus, developer since 2007, notably with ruby + rails [http://github.com/tibastral](http://github.com/tibastral)
-* French here with a business visa
-* Working for my company in France named Milesrock, a ruby/rails/node/js consulting
-  company.
+* Working for Milesrock, a ruby/rails/node/js consulting company.
 * Developing [feedmehq.com](http://www.feedmehq.com)
 * I will talk about Omniauth and why it's worth it
 
@@ -49,6 +47,8 @@ Omniauth is a simple ruby gem that let your users authenticate through a growing
 * and you want to let users have an identity on the website
 * and let them authenticate
 * and these users already have a facebook/twitter/google/... account.
+
+!SLIDE
 
 ### With the omniauth gem, you just have to create an initializer file :
 
@@ -192,7 +192,7 @@ In one word : AMAZING
 
 ## If you want to use / fork these slides, help yourself :
 
-[github.com/tibastral/compass-pres](http://github.com/tibastral/compass-pres)
+[github.com/tibastral/omniauth-pres](http://github.com/tibastral/compass-pres)
 
 !SLIDE
 
@@ -208,3 +208,4 @@ Sassly hacked
 !SLIDE
 
 # Thank You !
+@tibastral
